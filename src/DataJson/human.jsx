@@ -1,14 +1,5 @@
 const ObjectHuman = [
-  {
-    name: "Bablu kumar",
-    role: "Student",
-    imagePath: "/images/bablu.jpg",
-    department: "CSE",
-    college: "SITE",
-    enrollment_No: "2201000000742",
-    projectRole: "Team Leader",
-    batch: "2022-2026",
-  },
+  
   {
     name: "Chandra Bhushan Kumar",
     role: "Student",
@@ -16,31 +7,13 @@ const ObjectHuman = [
     department: "CSE",
     college: "SITE",
     enrollment_No: "2201000000745",
-    projectRole: "UI Developer",
+    projectRole: "Developer",
     batch: "2022-2026",
   },
 
-  {
-    name: "Gyanendra Chaughary ",
-    role: "Student",
-    imagePath: "/images/gyanendra.jpg",
-    department: "CSE",
-    college: "SITE",
-    enrollment_No: "22106000001231",
-    projectRole: "Idea & Design Developer",
-    batch: "2022-2026",
-  },
+ 
 
-  {
-    name: "Amarjeet Kumar",
-    role: "Student",
-    imagePath: "/images/amarjeet.jpg",
-    department: "IT",
-    college: "SITE",
-    enrollment_No: "2201000000743",
-    projectRole: "Team Supporter ",
-    batch: "2022-2026",
-  },
+  
 
   {
     name: "Dr. Ashima",
